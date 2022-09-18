@@ -34,8 +34,8 @@ git checkout main
 git checkout new_vetka2
 переключение на ветку main / new_vetka2
 
-git revert или git reset
-отмена нежелательных изменений
+git revert HEAD
+отмена последнего изменения
 
 git merge new_vetka
 слияние текущей ветки с new_vetka
@@ -43,6 +43,15 @@ git merge new_vetka
 git branch -d new_vetka
 удаление ветки new_vetka
 
-git clone https
+git clone https://github.com/magix-g/bj.git
+клонирование удаленного репозитория на локальный компьютер
 
-11111
+git remote add origin https://github.com/magix-g/z.git
+git branch -M main
+git push -u origin main
+Подключиться к удаленному репозиторию, создать главную ветку и выгрузить локальный файл  
+на удаленный репозиторий через push
+
+git pull
+скачать измененный файл с удаленного репозитория
+
