@@ -47,7 +47,7 @@ git clone https://github.com/magix-g/bj.git
 ПОРЯДОК РАБОТЫ С УДАЛЕННЫМ РЕПОЗИТОРИЕМ
 ========================================
 
-git remote add origin https://github.com/magix-g/z.git
+git remote add origin1 https://github.com/magix-g/bj.git
 Подключиться к удаленному репозиторию и присвоить имя соединению origin
 
 git branch -M main
@@ -55,6 +55,8 @@ git branch -M main
 
 git push -u origin main
 выгрузить локальный файл на удаленный репозиторий через push
+origin - название соединения
+main - название ветки
 
 git push
 выгрузить локальный файл к уже ранее присоединенному репозиторию
