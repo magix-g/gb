@@ -17,4 +17,24 @@ git status
 git log
 список всех коммитов
 
-aaaqqq
+git checkout HASH
+HASH - хэш, первые 6 символов предыдущих коммитов, 
+вернуться в состояние предыдущих коммитов
+
+git branch 
+список всех веток
+
+git branch new_vetka
+создание новой ветки
+
+git checkout -b new_vetka2
+создание ветки и переключение на нее
+
+git checkout main
+git checkout new_vetka2
+переключение на ветку main / new_vetka2
+
+git revert или git reset
+отмена нежелательных изменений
+
+1111
