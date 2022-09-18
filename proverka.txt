@@ -37,4 +37,3 @@ git checkout new_vetka2
 git revert или git reset
 отмена нежелательных изменений
 
-1111
