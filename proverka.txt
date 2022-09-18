@@ -37,3 +37,11 @@ git checkout new_vetka2
 git revert или git reset
 отмена нежелательных изменений
 
+git merge new_vetka
+слияние текущей ветки с new_vetka
+
+git branch -d new_vetka
+удаление ветки new_vetka
+
+git clone https
+
