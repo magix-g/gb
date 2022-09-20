@@ -1,0 +1,15 @@
+C# commands
+============
+
+1. dotnet new console
+инициализация папки
+
+2. Console.WriteLine("Hello, World!");
+Вывод на экран и перевод на новую строку
+
+3. dotnet run 
+Запуск программы в терминале
+ 
+setings - autosave - OnFocusChange
+
+
