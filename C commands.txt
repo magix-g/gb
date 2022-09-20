@@ -2,14 +2,22 @@ C# commands
 ============
 
 1. dotnet new console
-инициализация папки
+инициализация проекта
 
 2. Console.WriteLine("Hello, World!");
 Вывод на экран и перевод на новую строку
 
 3. dotnet run 
 Запуск программы в терминале
- 
+
+4. ReadLine();
+Счиать строку из терминала
+
+2. Console.Write("Hello, World!");
+Вывод на экран в одну строку
+
 setings - autosave - OnFocusChange
 
+new Random().Next(min, max);
+даст на экран случайное целое число от min до max-1
 
