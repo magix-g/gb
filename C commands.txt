@@ -21,3 +21,8 @@ setings - autosave - OnFocusChange
 new Random().Next(min, max);
 даст на экран случайное целое число от min до max-1
 
+while(условие продолжения)
+{
+набор действий;
+
+}
